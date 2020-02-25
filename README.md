@@ -1,4 +1,3 @@
-# [Archaeological Research Facility, UC Berkeley](http://arf.berkeley.edu)
 ## N. Tripcevich Workshop Tutorials
 
 ### Tutorials
